@@ -1,7 +1,7 @@
 
 # Olá, sou Julio Mendes 👋
 
-- 💻 Estudante de Ciência da computação
+- 💻 Estudante de Ciência da computação no IFSP
 - 📅 Tenho 19 anos de idade
 - 🔎 Em busca de novas oportunidades
 - 🐍 No momento estou estudando Python
