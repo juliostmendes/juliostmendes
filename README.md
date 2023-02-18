@@ -6,7 +6,6 @@
 - 🐍 No momento estou estudando Python
 
 ![Julio Mendes's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliostmendes&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliostmendes&langs_count=8&theme=dracula)](https://github.com/juliostmendes/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,3 +17,4 @@
 ##
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julio-santos-mendes)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/juliostmendes)
