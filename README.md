@@ -5,7 +5,7 @@
     <li>💻 Cursando Ciência da computação 6/8</li>
     <li>🔎 Em busca de novas oportunidades</li>
     <li>☕ No momento estou estudando Java</li>
-    <li>🖱️Estágio na Gaian no Projeto SVSA</li>
+    <li>🖱️Estagiário na Gaian no Projeto SVSA</li>
   </ul>
 </div>
 
