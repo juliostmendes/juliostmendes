@@ -2,10 +2,9 @@
 <div>
   <h3>Sobre mim: </h3>
   <ul>
-    <li>💻 Cursando Ciência da computação 6/8</li>
+    <li>💻 Cursando Ciência da computação 7/8</li>
     <li>🔎 Em busca de novas oportunidades</li>
     <li>☕ No momento estou estudando Java</li>
-    <li>🖱️Estagiário na Gaian no Projeto SVSA</li>
   </ul>
 </div>
 
