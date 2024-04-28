@@ -14,7 +14,6 @@ Tenho me dedicado a aprofundar meus conhecimentos em Java, e já usei tecnologia
 </div><br><br>
 
 <div align="center">
-  <a href="https://beacons.ai/karolineymt">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliostmendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliostmendes&layout=compact&langs_count=7&theme=radical"/>
 </div>
