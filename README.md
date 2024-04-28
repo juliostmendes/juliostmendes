@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6633ce&text=👋%20Julio%20Mendes&fontColor=0d1017"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6633ce&text=Julio%20Mendes&fontColor=e6edf3"/>
 
   Apaixonado por tecnologia desde cedo, tracei minha jornada na área de Ciência da Computação através de um compromisso contínuo com o aprendizado e uma busca incansável por desafios inovadores. Iniciei minha trajetória trabalhando com Java, JPA e JSF em projetos voluntários, e desde então direcionei meu foco para tecnologias modernas como React e AWS, participando ativamente em diversos projetos.
   
