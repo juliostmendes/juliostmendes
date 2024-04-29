@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6633ce&text=Julio%20Mendes&fontColor=e6edf3"/>
 
-  Apaixonado por tecnologia desde cedo, tracei minha jornada na área de Ciência da Computação através de um compromisso contínuo com o aprendizado e uma busca incansável por desafios inovadores. Iniciei minha trajetória trabalhando com Java, JPA e JSF em projetos voluntários, e desde então direcionei meu foco para tecnologias modernas como React e AWS, participando ativamente em diversos projetos.
+  [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/juliostmendes/juliostmendes/blob/master/README.pt-br.md)
   
-  Acredito firmemente que a tecnologia é uma ferramenta poderosa capaz de transformar o mundo. Estou ansioso para contribuir com minhas habilidades e conhecimentos para projetos inovadores e impactantes, almejando construir   uma carreira sólida na área de Ciência da Computação. Sou um aprendiz rápido, proativo e orientado a resultados, com habilidades excepcionais de trabalho em equipe.
+  Passionate about technology from an early age, I've charted my journey in the field of Computer Science through a continuous commitment to learning and an unwavering pursuit of innovative challenges. I began my journey working with Java, JPA, and JSF on volunteer projects, and since then, I've directed my focus towards modern technologies like React and AWS, actively participating in various projects.
 
-  📚 Ciência da Computação 7/8
+I firmly believe that technology is a powerful tool capable of transforming the world. I'm eager to contribute my skills and knowledge to impactful and innovative projects, aiming to build a solid career in the field of Computer Science. I'm a quick learner, proactive, and results-oriented, with exceptional teamwork skills.
 
-  🧑‍💻 Estou aprendendo: ReactJS
+📚 Computer Science 7/8
+
+🧑‍💻 Currently learning: ReactJS
 
 <div style="display: inline_block" align="center"><br>
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
