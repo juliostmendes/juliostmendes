@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6633ce&text=Julio%20Mendes&fontColor=e6edf3"/>
 
-  [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/juliostmendes/juliostmendes/blob/master/README.pt-br.md)
+  [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/juliostmendes/juliostmendes/blob/fe0ed67fb41d76204459339416f04cb06ca12cf8/README.pt-br.md)
   
   Passionate about technology from an early age, I've charted my journey in the field of Computer Science through a continuous commitment to learning and an unwavering pursuit of innovative challenges. I began my journey working with Java, JPA, and JSF on volunteer projects, and since then, I've directed my focus towards modern technologies like React and AWS, actively participating in various projects.
 
