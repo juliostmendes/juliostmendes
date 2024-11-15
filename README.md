@@ -6,9 +6,9 @@
 
 I firmly believe that technology is a powerful tool capable of transforming the world. I'm eager to contribute my skills and knowledge to impactful and innovative projects, aiming to build a solid career in the field of Computer Science. I'm a quick learner, proactive, and results-oriented, with exceptional teamwork skills.
 
-📚 Computer Science 7/8
+📚 Computer Science 8/8
 
-🧑‍💻 Currently learning: ReactJS
+🧑‍💻 Currently learning: Linux
 
 <div style="display: inline_block" align="center"><br>
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
