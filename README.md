@@ -28,12 +28,4 @@ I firmly believe that technology is a powerful tool capable of transforming the 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliostmendes&layout=compact&langs_count=5&theme=radical"/>
 </div><br>
 
-<div align="center" >
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliostmendes)](https://www.linkedin.com/in/juliostmendes)
-  [![Gmail Badge](https://img.shields.io/badge/-mendes.julio@pm.me-6633cc?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:mendes.julio@pm.me)](mailto:mendes.julio@pm.me)
-  
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6633ce&height=120&section=footer"/>
