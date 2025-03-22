@@ -1,31 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6633ce&text=Julio%20Mendes&fontColor=e6edf3"/>
-
-  [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/juliostmendes/juliostmendes/blob/fe0ed67fb41d76204459339416f04cb06ca12cf8/README.pt-br.md)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7957d5&text=Julio%20Mendes&fontColor=e6edf3"/>
   
-  Passionate about technology from an early age, I've charted my journey in the field of Computer Science through a continuous commitment to learning and an unwavering pursuit of innovative challenges. I began my journey working with Java, JPA, and JSF on volunteer projects, and since then, I've directed my focus towards modern technologies like React and AWS, actively participating in various projects.
+  My journey in Computer Science has been driven by a passion for learning and solving innovative challenges. I began my journey working with Java, JPA, and JSF on volunteer projects, and since then, I’ve focused on modern technologies like Spring, containers, and AWS, building projects to apply these skills.
 
-I firmly believe that technology is a powerful tool capable of transforming the world. I'm eager to contribute my skills and knowledge to impactful and innovative projects, aiming to build a solid career in the field of Computer Science. I'm a quick learner, proactive, and results-oriented, with exceptional teamwork skills.
+I believe technology has the power to drive meaningful change. I'm eager to apply my skills to impactful and innovative projects while building a strong career in Computer Science. As a quick learner, proactive team player, and results-driven professional, I'm always ready to take on new challenges.
 
-📚 Computer Science 8/8
+📚 Bachelor's Degree in Computer Science
 
-🧑‍💻 Currently learning: Linux
+📖 Currently deepening my knowledge of Spring and backend development.
 
-<div style="display: inline_block" align="center"><br>
-  <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />        
-  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />              
+🛠 **Tech Stack:**
+- **Backend:** Java, Spring, Python, PostgreSQL, MySQL
+- **Frontend:** JavaScript, HTML, CSS
+- **Tools:** Linux, Git, Docker, AWS
+
+<div align="center"><br>
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+  <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="Postgres" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+          
+  <img alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  
+  <img alt="Fedora" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />                     
 </div>
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliostmendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliostmendes&layout=compact&langs_count=5&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliostmendes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliostmendes&layout=compact&langs_count=5&theme=material-palenight"/>
 </div><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6633ce&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7957d5&height=120&section=footer"/>
